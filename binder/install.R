@@ -1,1 +1,1 @@
-install.packages(c("tidyverse","ggthemes","scales"))
+install.packages("tidyverse")
